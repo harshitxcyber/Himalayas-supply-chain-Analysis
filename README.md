@@ -8,7 +8,7 @@ The dashboard brings together revenue, product sales, supply chain costs, defect
 
 Add the dashboard screenshot to this repository and name it `dashboard.png` (or update the image path below to match your filename).
 
-![Himalaya Supply Chain Performance Dashboard](dashboard.png)
+![Himalaya Supply Chain Performance Dashboard](Dashboard.png)
 
 ## Project Overview
 
@@ -86,10 +86,11 @@ Replace the example filenames with the actual names of the files you upload. You
 
 ## Author
 
-**Shubham Kumar**  
-MBA – Business Analytics  
-Anurag University
+**Harshit Kumar Pandey**\
+MBA -- Business Analytics\
+Interested in Data Analytics, Business Intelligence, and data-driven
+decision-making.
 
----
+------------------------------------------------------------------------
 
-This project demonstrates the use of Power BI to present supply chain KPIs and operational trends in an interactive dashboard.
+If you find this project useful, feel free to ⭐ the repository.
